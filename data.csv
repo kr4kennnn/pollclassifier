@@ -1,0 +1,206 @@
+Yaşınız,Cinsiyyetiniz,Ailenizin aylık geliri ne kadar ? (TL),Öğrenci misiniz ?,Çalışıyor musunuz ?,Haftada kaç gün toplu taşıma kullıyorsunuz ?,Gün içerisinde trafikte kaç saat geçiriyorsunuz ?,Farklı araba/motosiklet modellerine ve özelliklerine aşina mısınız?,Ehliyetiniz var mı,Şu an veya geçmişte hiç motorlu taşıt sahibi oldunuz mu ?
+22,Erkek,30001-40000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+22,Kadın,10001 - 20000,Evet,Hayır,3-5,0-2,Hayır,Hayır,Hayır
+22,Erkek,10001 - 20000,Evet,Hayır,3-5,0-2,Hayır,Hayır,Hayır
+25,Erkek,20001-30000,Hayır,Evet,3-5,0-2,Evet,Evet,Hayır
+21,Kadın,0 - 10000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+23,Erkek,0 - 10000,Evet,Evet,3-5,0-2,Hayır,Hayır,Evet
+23,Kadın,10001 - 20000,Evet,Hayır,3-5,0-2,Hayır,Evet,Hayır
+20,Kadın,0 - 10000,Evet,Hayır,3-5,3+,Hayır,Evet,Hayır
+22,Kadın,0 - 10000,Evet,Hayır,0-2,0-2,Evet,Evet,Hayır
+20,Erkek,20001-30000,Evet,Hayır,3-5,0-2,Hayır,Evet,Hayır
+22,Kadın,0 - 10000,Evet,Evet,0-2,2-3,Hayır,Hayır,Hayır
+25,Erkek,40000+,Evet,Evet,3-5,0-2,Evet,Evet,Evet
+23,Erkek,20001-30000,Evet,Evet,0-2,0-2,Hayır,Hayır,Hayır
+23,Erkek,20001-30000,Evet,Hayır,3-5,0-2,Hayır,Evet,Hayır
+25,Erkek,10001 - 20000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+19,Erkek,20001-30000,Evet,Hayır,6-7,2-3,Hayır,Hayır,Hayır
+18,Erkek,20001-30000,Evet,Hayır,3-5,0-2,Evet,Hayır,Evet
+19,Erkek,0 - 10000,Evet,Hayır,0-2,0-2,Hayır,Evet,Hayır
+20,Erkek,40000+,Evet,Hayır,0-2,2-3,Evet,Evet,Evet
+21,Erkek,10001 - 20000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+26,Erkek,20001-30000,Evet,Evet,0-2,0-2,Evet,Evet,Hayır
+23,Erkek,40000+,Evet,Evet,3-5,0-2,Hayır,Evet,Evet
+23,Erkek,10001 - 20000,Evet,Hayır,0-2,0-2,Hayır,Evet,Hayır
+24,Kadın,40000+,Evet,Hayır,0-2,0-2,Evet,Evet,Evet
+18,Kadın,20001-30000,Evet,Hayır,6-7,3+,Hayır,Hayır,Hayır
+23,Erkek,10001 - 20000,Evet,Hayır,0-2,2-3,Evet,Evet,Evet
+29,Erkek,40000+,Hayır,Hayır,0-2,0-2,Evet,Evet,Evet
+21,Erkek,40000+,Evet,Hayır,3-5,0-2,Evet,Evet,Hayır
+21,Kadın,40000+,Evet,Evet,6-7,3+,Evet,Evet,Hayır
+22,Kadın,10001 - 20000,Evet,Evet,0-2,2-3,Evet,Evet,Hayır
+26,Erkek,20001-30000,Hayır,Evet,6-7,0-2,Evet,Evet,Hayır
+21,Erkek,0 - 10000,Evet,Hayır,3-5,0-2,Evet,Hayır,Hayır
+20,Erkek,20001-30000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+20,Erkek,10001 - 20000,Evet,Hayır,0-2,0-2,Evet,Evet,Hayır
+21,Erkek,0 - 10000,Evet,Hayır,0-2,2-3,Evet,Hayır,Hayır
+20,Erkek,0 - 10000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+22,Erkek,10001 - 20000,Evet,Hayır,3-5,0-2,Hayır,Evet,Hayır
+21,Erkek,10001 - 20000,Evet,Evet,6-7,3+,Hayır,Hayır,Hayır
+21,Kadın,10001 - 20000,Evet,Hayır,0-2,0-2,Hayır,Evet,Evet
+21,Erkek,20001-30000,Evet,Hayır,3-5,2-3,Evet,Evet,Evet
+21,Erkek,10001 - 20000,Evet,Evet,3-5,0-2,Evet,Hayır,Hayır
+20,Erkek,10001 - 20000,Evet,Hayır,6-7,0-2,Evet,Hayır,Hayır
+22,Kadın,10001 - 20000,Evet,Hayır,3-5,2-3,Hayır,Hayır,Hayır
+19,Kadın,10001 - 20000,Evet,Hayır,6-7,2-3,Hayır,Evet,Hayır
+23,Kadın,20001-30000,Evet,Evet,3-5,0-2,Hayır,Hayır,Hayır
+24,Kadın,10001 - 20000,Evet,Hayır,3-5,3+,Hayır,Evet,Hayır
+30,Kadın,0 - 10000,Hayır,Evet,0-2,0-2,Hayır,Evet,Hayır
+18,Erkek,10001 - 20000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+24,Erkek,0 - 10000,Hayır,Hayır,0-2,0-2,Evet,Hayır,Hayır
+19,Erkek,0 - 10000,Evet,Hayır,6-7,2-3,Evet,Evet,Evet
+23,Erkek,10001 - 20000,Evet,Hayır,3-5,2-3,Hayır,Hayır,Hayır
+23,Erkek,30001-40000,Evet,Evet,0-2,0-2,Evet,Evet,Hayır
+23,Erkek,10001 - 20000,Evet,Hayır,0-2,0-2,Evet,Evet,Hayır
+19,Kadın,0 - 10000,Evet,Hayır,0-2,0-2,Hayır,Evet,Hayır
+27,Erkek,20001-30000,Hayır,Hayır,0-2,0-2,Hayır,Evet,Hayır
+23,Erkek,40000+,Hayır,Evet,0-2,2-3,Hayır,Evet,Evet
+22,Erkek,20001-30000,Evet,Hayır,0-2,0-2,Evet,Hayır,Hayır
+33,Erkek,40000+,Hayır,Evet,0-2,0-2,Evet,Evet,Evet
+21,Kadın,30001-40000,Evet,Evet,3-5,0-2,Hayır,Evet,Evet
+22,Erkek,10001 - 20000,Evet,Hayır,0-2,0-2,Evet,Evet,Hayır
+26,Erkek,20001-30000,Hayır,Evet,3-5,2-3,Evet,Evet,Hayır
+28,Kadın,40000+,Hayır,Evet,3-5,0-2,Hayır,Hayır,Hayır
+26,Erkek,30001-40000,Evet,Evet,0-2,3+,Evet,Evet,Evet
+20,Erkek,10001 - 20000,Evet,Hayır,3-5,0-2,Evet,Hayır,Hayır
+21,Erkek,0 - 10000,Evet,Hayır,3-5,0-2,Evet,Hayır,Hayır
+23,Kadın,20001-30000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+23,Erkek,10001 - 20000,Evet,Hayır,3-5,0-2,Evet,Hayır,Hayır
+21,Erkek,10001 - 20000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+22,Erkek,40000+,Evet,Hayır,0-2,2-3,Evet,Evet,Evet
+29,Erkek,20001-30000,Hayır,Evet,0-2,0-2,Evet,Evet,Evet
+18,Kadın,10001 - 20000,Evet,Hayır,6-7,0-2,Hayır,Hayır,Hayır
+23,Erkek,20001-30000,Hayır,Evet,3-5,2-3,Hayır,Hayır,Hayır
+24,Erkek,40000+,Evet,Hayır,0-2,0-2,Evet,Evet,Evet
+27,Erkek,30001-40000,Hayır,Evet,3-5,0-2,Hayır,Evet,Hayır
+24,Erkek,0 - 10000,Evet,Hayır,0-2,0-2,Hayır,Evet,Hayır
+24,Erkek,10001 - 20000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+20,Erkek,10001 - 20000,Evet,Hayır,3-5,3+,Hayır,Hayır,Hayır
+20,Erkek,10001 - 20000,Evet,Hayır,0-2,2-3,Hayır,Hayır,Hayır
+22,Erkek,30001-40000,Evet,Evet,0-2,2-3,Evet,Evet,Evet
+22,Kadın,10001 - 20000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+22,Erkek,20001-30000,Evet,Evet,0-2,0-2,Hayır,Evet,Evet
+24,Erkek,30001-40000,Evet,Hayır,6-7,0-2,Hayır,Hayır,Hayır
+22,Erkek,10001 - 20000,Evet,Hayır,3-5,0-2,Hayır,Hayır,Hayır
+22,Erkek,30001-40000,Evet,Evet,0-2,0-2,Hayır,Evet,Evet
+22,Erkek,10001 - 20000,Evet,Hayır,0-2,0-2,Evet,Hayır,Hayır
+27,Erkek,20001-30000,Hayır,Hayır,0-2,0-2,Hayır,Evet,Hayır
+26,Erkek,30001-40000,Hayır,Evet,0-2,3+,Evet,Evet,Evet
+19,Kadın,10001 - 20000,Evet,Hayır,6-7,0-2,Hayır,Hayır,Hayır
+20,Erkek,40000+,Evet,Hayır,0-2,0-2,Evet,Evet,Evet
+24,Erkek,0 - 10000,Evet,Hayır,3-5,0-2,Evet,Hayır,Hayır
+22,Erkek,20001-30000,Evet,Hayır,0-2,2-3,Evet,Hayır,Hayır
+25,Kadın,40000+,Hayır,Hayır,0-2,2-3,Hayır,Evet,Evet
+22,Erkek,30001-40000,Evet,Hayır,0-2,0-2,Evet,Evet,Evet
+21,Erkek,10001 - 20000,Evet,Hayır,6-7,2-3,Hayır,Hayır,Hayır
+20,Erkek,20001-30000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+24,Erkek,20001-30000,Hayır,Hayır,0-2,2-3,Evet,Evet,Evet
+22,Erkek,0 - 10000,Evet,Hayır,3-5,0-2,Hayır,Hayır,Hayır
+23,Erkek,20001-30000,Evet,Evet,0-2,2-3,Hayır,Evet,Evet
+21,Erkek,10001 - 20000,Evet,Hayır,3-5,0-2,Hayır,Hayır,Hayır
+19,Erkek,10001 - 20000,Evet,Hayır,0-2,0-2,Evet,Hayır,Hayır
+28,Erkek,20001-30000,Hayır,Evet,0-2,2-3,Evet,Evet,Evet
+22,Erkek,0 - 10000,Evet,Hayır,3-5,2-3,Hayır,Hayır,Hayır
+23,Erkek,20001-30000,Evet,Hayır,3-5,0-2,Hayır,Hayır,Hayır
+19,Erkek,0 - 10000,Evet,Hayır,3-5,0-2,Evet,Evet,Hayır
+21,Kadın,20001-30000,Evet,Evet,0-2,0-2,Hayır,Evet,Evet
+22,Erkek,10001 - 20000,Evet,Hayır,6-7,0-2,Hayır,Hayır,Hayır
+23,Erkek,10001 - 20000,Evet,Evet,3-5,2-3,Evet,Hayır,Hayır
+20,Erkek,10001 - 20000,Evet,Hayır,0-2,0-2,Evet,Hayır,Hayır
+25,Erkek,10001 - 20000,Hayır,Evet,3-5,2-3,Evet,Hayır,Hayır
+24,Erkek,30001-40000,Hayır,Evet,0-2,0-2,Evet,Evet,Evet
+20,Erkek,0 - 10000,Evet,Hayır,3-5,0-2,Evet,Evet,Hayır
+27,Kadın,10001 - 20000,Hayır,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+21,Erkek,40000+,Evet,Hayır,0-2,2-3,Evet,Evet,Evet
+23,Erkek,0 - 10000,Evet,Hayır,3-5,0-2,Hayır,Hayır,Hayır
+25,Erkek,30001-40000,Hayır,Evet,0-2,0-2,Hayır,Evet,Evet
+21,Kadın,10001 - 20000,Evet,Hayır,6-7,2-3,Hayır,Hayır,Hayır
+22,Kadın,10001 - 20000,Evet,Hayır,3-5,0-2,Hayır,Hayır,Hayır
+19,Erkek,0 - 10000,Evet,Hayır,0-2,0-2,Evet,Hayır,Hayır
+22,Erkek,40000+,Evet,Hayır,0-2,2-3,Evet,Evet,Evet
+22,Kadın,20001-30000,Evet,Evet,3-5,0-2,Hayır,Hayır,Hayır
+20,Erkek,10001 - 20000,Evet,Hayır,3-5,0-2,Evet,Evet,Hayır
+23,Kadın,40000+,Evet,Hayır,0-2,0-2,Hayır,Evet,Evet
+25,Erkek,20001-30000,Hayır,Evet,0-2,2-3,Evet,Evet,Evet
+25,Erkek,10001 - 20000,Hayır,Hayır,0-2,0-2,Evet,Hayır,Hayır
+24,Erkek,10001 - 20000,Evet,Evet,3-5,0-2,Hayır,Hayır,Hayır
+27,Kadın,10001 - 20000,Hayır,Evet,3-5,0-2,Hayır,Evet,Hayır
+23,Erkek,20001-30000,Evet,Hayır,0-2,0-2,Evet,Hayır,Hayır
+22,Erkek,0 - 10000,Evet,Hayır,3-5,0-2,Hayır,Hayır,Hayır
+22,Erkek,20001-30000,Evet,Hayır,3-5,2-3,Hayır,Hayır,Hayır
+21,Erkek,30001-40000,Evet,Hayır,0-2,0-2,Evet,Hayır,Hayır
+27,Erkek,20001-30000,Hayır,Evet,0-2,2-3,Hayır,Evet,Evet
+23,Kadın,20001-30000,Evet,Hayır,3-5,0-2,Hayır,Hayır,Hayır
+22,Erkek,10001 - 20000,Evet,Hayır,3-5,0-2,Evet,Evet,Hayır
+32,Erkek,20001-30000,Hayır,Evet,0-2,2-3,Evet,Evet,Evet
+24,Erkek,10001 - 20000,Evet,Hayır,3-5,0-2,Evet,Hayır,Hayır
+23,Erkek,20001-30000,Evet,Evet,0-2,0-2,Hayır,Evet,Hayır
+20,Erkek,0 - 10000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+18,Kadın,0 - 10000,Evet,Hayır,6-7,2-3,Hayır,Hayır,Hayır
+22,Kadın,40000+,Evet,Hayır,0-2,2-3,Hayır,Evet,Evet
+22,Erkek,10001 - 20000,Evet,Hayır,3-5,0-2,Hayır,Hayır,Hayır
+26,Erkek,40000+,Hayır,Evet,0-2,2-3,Evet,Evet,Evet
+21,Erkek,20001-30000,Evet,Hayır,0-2,0-2,Evet,Hayır,Hayır
+21,Erkek,10001 - 20000,Evet,Hayır,0-2,0-2,Evet,Hayır,Hayır
+24,Erkek,20001-30000,Evet,Evet,0-2,0-2,Evet,Evet,Evet
+24,Kadın,0 - 10000,Evet,Hayır,3-5,0-2,Hayır,Evet,Hayır
+19,Erkek,30001-40000,Evet,Hayır,3-5,2-3,Evet,Hayır,Hayır
+27,Erkek,40000+,Hayır,Hayır,0-2,3+,Evet,Evet,Evet
+22,Kadın,10001 - 20000,Evet,Hayır,6-7,3+,Hayır,Hayır,Hayır
+23,Kadın,20001-30000,Evet,Hayır,3-5,0-2,Hayır,Hayır,Hayır
+21,Erkek,0 - 10000,Evet,Hayır,3-5,0-2,Hayır,Hayır,Hayır
+23,Erkek,0 - 10000,Evet,Evet,3-5,2-3,Evet,Evet,Hayır
+21,Erkek,20001-30000,Evet,Hayır,0-2,2-3,Evet,Evet,Evet
+25,Kadın,40000+,Hayır,Hayır,0-2,2-3,Evet,Evet,Evet
+21,Erkek,10001 - 20000,Evet,Hayır,3-5,0-2,Evet,Hayır,Hayır
+22,Erkek,10001 - 20000,Evet,Hayır,3-5,0-2,Evet,Hayır,Hayır
+22,Erkek,20001-30000,Evet,Hayır,0-2,0-2,Evet,Evet,Hayır
+24,Kadın,10001 - 20000,Hayır,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+23,Erkek,0 - 10000,Evet,Hayır,3-5,2-3,Hayır,Hayır,Hayır
+21,Erkek,20001-30000,Hayır,Evet,3-5,0-2,Evet,Evet,Hayır
+23,Erkek,20001-30000,Evet,Evet,6-7,2-3,Hayır,Evet,Hayır
+22,Kadın,10001 - 20000,Evet,Hayır,3-5,0-2,Hayır,Hayır,Hayır
+23,Erkek,10001 - 20000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+22,Erkek,30001-40000,Evet,Hayır,0-2,2-3,Evet,Evet,Evet
+21,Erkek,0 - 10000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+28,Kadın,30001-40000,Hayır,Evet,0-2,3+,Evet,Evet,Evet
+27,Erkek,40000+,Hayır,Evet,0-2,2-3,Hayır,Evet,Evet
+20,Erkek,10001 - 20000,Evet,Hayır,3-5,0-2,Evet,Hayır,Hayır
+22,Kadın,0 - 10000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+25,Erkek,40000+,Evet,Hayır,0-2,3+,Evet,Evet,Evet
+22,Erkek,30001-40000,Evet,Hayır,3-5,0-2,Hayır,Evet,Hayır
+20,Erkek,0 - 10000,Evet,Hayır,6-7,0-2,Hayır,Hayır,Hayır
+23,Erkek,10001 - 20000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+19,Erkek,0 - 10000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+20,Erkek,10001 - 20000,Evet,Hayır,3-5,2-3,Hayır,Hayır,Hayır
+22,Erkek,30001-40000,Evet,Hayır,0-2,2-3,Evet,Evet,Evet
+22,Erkek,10001 - 20000,Evet,Hayır,3-5,2-3,Evet,Evet,Hayır
+24,Kadın,40000+,Hayır,Evet,0-2,0-2,Hayır,Evet,Evet
+23,Erkek,30001-40000,Hayır,Evet,0-2,0-2,Hayır,Hayır,Hayır
+21,Erkek,10001 - 20000,Evet,Hayır,3-5,0-2,Evet,Hayır,Hayır
+25,Erkek,20001-30000,Evet,Hayır,0-2,0-2,Hayır,Evet,Hayır
+23,Erkek,10001 - 20000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+22,Erkek,20001-30000,Evet,Hayır,3-5,2-3,Evet,Evet,Hayır
+21,Kadın,0 - 10000,Evet,Hayır,3-5,2-3,Hayır,Evet,Hayır
+20,Erkek,10001 - 20000,Evet,Hayır,0-2,0-2,Evet,Hayır,Hayır
+23,Erkek,40000+,Evet,Hayır,0-2,2-3,Evet,Evet,Evet
+24,Kadın,20001-30000,Evet,Hayır,0-2,0-2,Hayır,Evet,Evet
+20,Kadın,10001 - 20000,Evet,Evet,3-5,0-2,Hayır,Hayır,Hayır
+22,Erkek,0 - 10000,Evet,Hayır,3-5,2-3,Hayır,Hayır,Hayır
+21,Erkek,40000+,Evet,Hayır,0-2,2-3,Evet,Evet,Evet
+23,Erkek,20001-30000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+23,Erkek,10001 - 20000,Evet,Hayır,3-5,0-2,Hayır,Hayır,Hayır
+23,Kadın,20001-30000,Evet,Hayır,3-5,0-2,Evet,Evet,Evet
+22,Erkek,10001 - 20000,Evet,Hayır,3-5,2-3,Hayır,Hayır,Hayır
+22,Erkek,0 - 10000,Hayır,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+21,Kadın,20001-30000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+21,Erkek,30001-40000,Hayır,Evet,0-2,3+,Evet,Evet,Evet
+20,Erkek,0 - 10000,Evet,Hayır,3-5,2-3,Hayır,Hayır,Hayır
+24,Erkek,40000+,Evet,Evet,0-2,2-3,Hayır,Evet,Evet
+25,Erkek,10001 - 20000,Hayır,Evet,3-5,0-2,Hayır,Evet,Hayır
+21,Kadın,10001 - 20000,Evet,Hayır,0-2,0-2,Hayır,Hayır,Hayır
+21,Kadın,40000+,Evet,Hayır,0-2,2-3,Evet,Evet,Hayır
+23,Erkek,10001 - 20000,Hayır,Hayır,0-2,0-2,Evet,Evet,Hayır
+22,Erkek,10001 - 20000,Evet,Hayır,0-2,0-2,Evet,Hayır,Hayır
+20,Erkek,40000+,Evet,Hayır,0-2,3+,Evet,Evet,Evet
+27,Erkek,10001 - 20000,Hayır,Evet,3-5,2-3,Hayır,Evet,Hayır

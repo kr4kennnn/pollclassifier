@@ -46,6 +46,7 @@ data['family_income'] = data['family_income'].replace('0 - 10000',1).replace('10
 data['public_transport_use'] = data['public_transport_use'].replace('0-2',1).replace('3-5',2).replace('6-7',3)
 data['traffic_time'] = data['traffic_time'].replace('0-2',1).replace('2-3',2).replace('3+',3)
 
+#iCorrect
 
 FEATURES = [                                                        #define our future and target parameters
     'age',

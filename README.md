@@ -1,2 +1,2 @@
-# pollclassifier
- This is a second assignment for my Artificial Intelligence class
+# Poll Classifier
+ This is my second assignment for Artificial Intelligence class
